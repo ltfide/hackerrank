@@ -3,7 +3,7 @@
 
 /**
  * One Dimensional Array
- * Dflty  : Easy
+ * Dflty  : Medium
  * URL    : https://www.hackerrank.com/challenges/1d-arrays-in-c
  * Date   : 09-02-2024
  * Author : Lutfi
