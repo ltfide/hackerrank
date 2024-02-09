@@ -6,7 +6,7 @@
 
 /**
  * Printing Tokens
- * Dflty  : Easy
+ * Dflty  : Medium
  * URL    : https://www.hackerrank.com/challenges/printing-tokens-
  * Date   : 09-02-2024
  * Author : Lutfi
