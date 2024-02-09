@@ -12,7 +12,7 @@ int isDigit(char c) {
 
 /**
  * Frequency of Digits
- * Dflty  : Easy
+ * Dflty  : Medium
  * URL    : https://www.hackerrank.com/challenges/frequency-of-digits-1
  * Date   : 09-02-2024
  * Author : Lutfi
