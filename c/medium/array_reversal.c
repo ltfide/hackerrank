@@ -3,7 +3,7 @@
 
 /**
  * Array Reversal
- * Dflty  : Easy
+ * Dflty  : Medium
  * URL    : https://www.hackerrank.com/challenges/reverse-array-c
  * Date   : 09-02-2024
  * Author : Lutfi
